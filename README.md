@@ -1,10 +1,10 @@
 # Mokymosi ir mokymo žaisti šaškėmis sistemos prototipo serverio programinis kodas
 
-Šioje repozitorijoje yra saugomas mokymosi ir mokymo žaisti šaškėmis sistemos prototipo serverio kodas. Kitos susijusios repozitorijos:
+Šioje repozitorijoje yra saugomas mokymosi ir mokymo žaisti šaškėmis sistemos prototipo serverio programinis kodas. Kitos susijusios repozitorijos:
 - kliento programinis kodas „https://github.com/krismilda/draughts-client"
 - „Arduino“ valdiklio programinis kodas „https://github.com/krismilda/iot-draughts-arduino“
 
-Programos paleidimo intrukcijos:
+Programos paleidimo instrukcija:
 - nusikopijuokite repozitoriją;
 - įvykdykite Maven clean-install;
 - paleiskite programą pasinaudodami kokia nors IDE arba komanda run cd draughts-web && mvn spring-boot:run. 
