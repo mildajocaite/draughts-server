@@ -1,8 +1,8 @@
 # Mokymosi ir mokymo žaisti šaškėmis sistemos prototipo serverio programinis kodas
 
 Šioje repozitorijoje yra saugomas mokymosi ir mokymo žaisti šaškėmis sistemos prototipo serverio programinis kodas. Kitos susijusios repozitorijos:
-- kliento programinis kodas „https://github.com/krismilda/draughts-client"
-- „Arduino“ valdiklio programinis kodas „https://github.com/krismilda/iot-draughts-arduino“
+- kliento programinis kodas „https://github.com/mildajocaite/draughts-client"
+- „Arduino“ valdiklio programinis kodas „https://github.com/mildajocaite/iot-draughts-arduino“
 
 Programos paleidimo instrukcija:
 - nusikopijuokite repozitoriją;
